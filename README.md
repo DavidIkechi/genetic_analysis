@@ -20,6 +20,7 @@ The analysis process was implemented using the following languages and libraries
 
 - Python: Python was the primary language used for the genome analysis, data processing, and scripting tasks.
 - Shell Scripting: Shell scripting was employed to access the genome assembly software in a non-interaction mode.
+
 The following libraries were utilized in the Python scripts:
 
 - NumPy: NumPy was used for efficient numerical computations and data manipulation.
