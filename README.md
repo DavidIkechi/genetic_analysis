@@ -24,7 +24,7 @@ The analysis process was implemented using the following languages and libraries
 The following libraries were utilized in the Python scripts:
 
 - NumPy: NumPy was used for efficient numerical computations and data manipulation.
-Pandas: Pandas was utilized for data preprocessing and analysis, including handling tabular data.
+- Pandas: Pandas was utilized for data preprocessing and analysis, such as FASTA data etc.
 - BioPython: BioPython provided functionality for working with biological sequences and performing sequence analysis tasks.
 - Other Relevant Libraries: Additional libraries such as matplotlib, seaborn, or scikit-learn may have been used for data visualization, statistical analysis, or machine learning, depending on the specific requirements of the analysis.
 
